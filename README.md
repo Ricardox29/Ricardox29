@@ -1,5 +1,7 @@
 <h1>Hi there, I'm Albeiro  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>  
-<img src="[Ricardox29/img-GitHub/Img-Albeiro-GitHub.png](https://github.com/Ricardox29/Ricardox29/blob/main/Img-GitHub/Img-Albeiro-GitHub.png)">
+<div>
+    <img src="[Ricardox29/img-GitHub/Img-Albeiro-GitHub.png](https://github.com/Ricardox29/Ricardox29/blob/main/Img-GitHub/Img-Albeiro-    GitHub.png)">
+<div/>
 
 I’m a Software developer interested in front-end development. Currently, I am working in a software's enterprise.
 
