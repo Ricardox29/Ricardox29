@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Albeiro  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>  
 <div>
-    <h1>Hi there, I'm Albeiro  <img src="https://github.com/Ricardox29/Ricardox29/blob/main/Img-GitHub/Img-Albeiro-GitHub.png" width="25px" width="25px"></h1>
+    <h1><img src="https://github.com/Ricardox29/Ricardox29/blob/main/Img-GitHub/Img-Albeiro-GitHub.png" width="25px" width="25px"></h1>
 <div/>
 
 I’m a Software developer interested in front-end development. Currently, I am working in a software's enterprise.
